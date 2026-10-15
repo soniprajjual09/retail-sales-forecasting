@@ -1,0 +1,4 @@
+Model,MAE,RMSE
+Random Forest,84785.13,131142.33
+Linear Regression,87760.3,139218.32
+Seasonal Naive,108674.91,170404.3
